@@ -83,6 +83,469 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": 7,
+      "title": "Senior React Developer",
+      "type": "Full-Time",
+      "description": "We are seeking an experienced Front-End Developer to join our team in Chicago, IL. The ideal candidate will have a strong background in React, Redux, and modern JavaScript development practices.",
+      "location": "Chicago, IL",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Windy City Tech",
+        "description": "Windy City Tech is a leading technology consultancy serving clients across a variety of industries. We are committed to fostering a culture of innovation and collaboration.",
+        "contactEmail": "contact@windycitytech.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": 8,
+      "title": "React Native Developer",
+      "type": "Full-Time",
+      "description": "Join our team as a Mobile Developer in the heart of Dallas, TX. We are looking for a talented individual with experience building cross-platform mobile applications using React Native. This is an exciting opportunity to work on cutting-edge projects.",
+      "location": "Dallas, TX",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Maverick Solutions",
+        "description": "Maverick Solutions is a fast-paced technology company specializing in mobile app development and digital transformation. We offer a dynamic and collaborative work environment with plenty of opportunities for growth.",
+        "contactEmail": "contact@mavericksolutions.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": 9,
+      "title": "Front-End Engineer (React)",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Front-End Developer in the vibrant city of Seattle, WA. We are seeking a passionate and skilled individual to join our team and help us create engaging web experiences. Strong experience with React, Redux, and modern front-end development practices is a must.",
+      "location": "Seattle, WA",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Emerald Tech",
+        "description": "Emerald Tech is a leading technology company specializing in web development and digital transformation. We pride ourselves on our innovative solutions and our commitment to employee growth and development.",
+        "contactEmail": "contact@emeraldtech.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": 10,
+      "title": "React Developer",
+      "type": "Full-Time",
+      "description": "Join our team as a React Developer in the heart of Denver, CO. We are looking for a skilled and motivated individual to help us build innovative web applications. This position offers a competitive salary and excellent benefits.",
+      "location": "Denver, CO",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Rocky Mountain Tech",
+        "description": "Rocky Mountain Tech is a rapidly growing technology company focused on delivering cutting-edge solutions to our clients. We offer a dynamic and collaborative work environment where your ideas and contributions are valued.",
+        "contactEmail": "contact@rockymountaintech.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": 11,
+      "title": "Senior Angular Developer",
+      "type": "Full-Time",
+      "description": "We are seeking an experienced Front-End Developer to join our team in San Francisco, CA. The ideal candidate will have a strong background in Angular, TypeScript, and modern web development best practices.",
+      "location": "San Francisco, CA",
+      "salary": "$100K - $120K",
+      "company": {
+        "name": "Bay Area Solutions",
+        "description": "Bay Area Solutions is a leading technology company specializing in enterprise-level software development and digital transformation. We are committed to fostering a culture of innovation and excellence.",
+        "contactEmail": "contact@bayareasolutions.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": 12,
+      "title": "Angular Front-End Developer",
+      "type": "Full-Time",
+      "description": "Join our team as a Front-End Developer in the vibrant city of Los Angeles, CA. We are looking for a talented and passionate individual with experience building complex web applications using Angular. This is an exciting opportunity to work on cutting-edge projects.",
+      "location": "Los Angeles, CA",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "SoCal Tech",
+        "description": "SoCal Tech is a dynamic technology company focused on delivering innovative digital solutions to our clients. We offer a collaborative and supportive work environment with opportunities for professional growth.",
+        "contactEmail": "contact@socaltech.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": 13,
+      "title": "Angular Developer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for an Angular Developer in the heart of Nashville, TN. We are seeking a skilled and motivated individual to join our team and help us build cutting-edge web applications. This position offers a competitive salary and excellent benefits.",
+      "location": "Nashville, TN",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Music City Tech",
+        "description": "Music City Tech is a rapidly growing technology company specializing in web development and digital transformation. We are committed to providing our clients with exceptional service and our employees with a dynamic and rewarding work environment.",
+        "contactEmail": "contact@musiccitytech.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": 14,
+      "title": "Front-End Engineer (Angular)",
+      "type": "Full-Time",
+      "description": "Join our team as a Front-End Developer in the beautiful city of Charleston, SC. We are looking for a talented and passionate individual with experience building modern web applications using Angular. This is an excellent opportunity to work on innovative projects while enjoying the unique charm of the Lowcountry.",
+      "location": "Charleston, SC",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Palmetto Tech",
+        "description": "Palmetto Tech is a leading technology company specializing in web development and digital solutions. We pride ourselves on our commitment to excellence, innovation, and employee satisfaction.",
+        "contactEmail": "contact@palmetto-tech.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": 15,
+      "title": "Senior Full-Stack Developer",
+      "type": "Full-Time",
+      "description": "We are seeking an experienced Full-Stack Developer to join our team in Cincinnati, OH. The ideal candidate will have a strong background in modern JavaScript frameworks (React, Angular, or Vue), as well as proficiency in server-side technologies such as Node.js, Python, or Ruby.",
+      "location": "Cincinnati, OH",
+      "salary": "$100K - $120K",
+      "company": {
+        "name": "Queen City Tech",
+        "description": "Queen City Tech is a leading technology company focused on delivering innovative digital solutions to our clients. We offer a dynamic and collaborative work environment with opportunities for professional growth.",
+        "contactEmail": "contact@queencitytech.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": 16,
+      "title": "Full-Stack Developer (React/Node.js)",
+      "type": "Full-Time",
+      "description": "Join our team as a Full-Stack Developer in the vibrant city of Columbus, OH. We are seeking a talented and motivated individual with experience building end-to-end web applications using React, Node.js, and other modern technologies.",
+      "location": "Columbus, OH",
+      "salary": "$90K - $110K",
+      "company": {
+        "name": "Buckeye Tech",
+        "description": "Buckeye Tech is a rapidly growing technology company specializing in web development and digital transformation. We offer a dynamic and collaborative work environment where your ideas and contributions are valued.",
+        "contactEmail": "contact@buckeyetech.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": 17,
+      "title": "Senior Full-Stack Engineer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for an experienced Full-Stack Developer to join our team in Indianapolis, IN. We are looking for a talented individual with a strong background in modern web development technologies, including React, Node.js, and SQL/NoSQL databases.",
+      "location": "Indianapolis, IN",
+      "salary": "$110K - $130K",
+      "company": {
+        "name": "Hoosier Tech",
+        "description": "Hoosier Tech is a leading technology company focused on delivering innovative digital solutions to our clients. We offer a dynamic and collaborative work environment with opportunities for professional growth.",
+        "contactEmail": "contact@hoosiertech.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": 18,
+      "title": "Full-Stack Developer (Vue.js/Node.js)",
+      "type": "Full-Time",
+      "description": "Join our team as a Full-Stack Developer in the vibrant city of Minneapolis, MN. We are seeking a talented and motivated individual with experience building end-to-end web applications using Vue.js, Node.js, and other modern technologies.",
+      "location": "Minneapolis, MN",
+      "salary": "$90K - $110K",
+      "company": {
+        "name": "North Star Tech",
+        "description": "North Star Tech is a rapidly growing technology company specializing in web development and digital transformation. We offer a dynamic and collaborative work environment where your ideas and contributions are valued.",
+        "contactEmail": "contact@northstartech.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": 19,
+      "title": "Senior Full-Stack Engineer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for an experienced Full-Stack Developer to join our team in the beautiful city of Portland, ME. We are looking for a talented individual with a strong background in modern web development technologies, including React, Node.js, and SQL/NoSQL databases.",
+      "location": "Portland, ME",
+      "salary": "$110K - $130K",
+      "company": {
+        "name": "Lighthouse Tech",
+        "description": "Lighthouse Tech is a leading technology company focused on delivering innovative digital solutions to our clients. We offer a dynamic and collaborative work environment with opportunities for professional growth.",
+        "contactEmail": "contact@lighthousetech.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": 20,
+      "title": "Full-Stack Developer (Angular/Java)",
+      "type": "Full-Time",
+      "description": "Join our team as a Full-Stack Developer in the vibrant city of Detroit, MI. We are seeking a talented and motivated individual with experience building end-to-end web applications using Angular, Java, and other modern technologies.",
+      "location": "Detroit, MI",
+      "salary": "$90K - $110K",
+      "company": {
+        "name": "Motor City Tech",
+        "description": "Motor City Tech is a rapidly growing technology company specializing in web development and digital transformation. We offer a dynamic and collaborative work environment where your ideas and contributions are valued.",
+        "contactEmail": "contact@motorcitytech.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": 21,
+      "title": "Senior Full-Stack Engineer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for an experienced Full-Stack Developer to join our team in the beautiful city of Raleigh, NC. We are looking for a talented individual with a strong background in modern web development technologies, including React, Node.js, and SQL/NoSQL databases.",
+      "location": "Raleigh, NC",
+      "salary": "$110K - $130K",
+      "company": {
+        "name": "Tar Heel Tech",
+        "description": "Tar Heel Tech is a leading technology company focused on delivering innovative digital solutions to our clients. We offer a dynamic and collaborative work environment with opportunities for professional growth.",
+        "contactEmail": "contact@tarheeltech.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": 22,
+      "title": "Full-Stack Developer (Vue.js/Python)",
+      "type": "Full-Time",
+      "description": "Join our team as a Full-Stack Developer in the vibrant city of Austin, TX. We are seeking a talented and motivated individual with experience building end-to-end web applications using Vue.js, Python, and other modern technologies.",
+      "location": "Austin, TX",
+      "salary": "$90K - $110K",
+      "company": {
+        "name": "Lone Star Tech",
+        "description": "Lone Star Tech is a rapidly growing technology company specializing in web development and digital transformation. We offer a dynamic and collaborative work environment where your ideas and contributions are valued.",
+        "contactEmail": "contact@lonestartech.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": 23,
+      "title": "Senior Full-Stack Engineer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for an experienced Full-Stack Developer to join our team in the beautiful city of Salt Lake City, UT. We are looking for a talented individual with a strong background in modern web development technologies, including React, Node.js, and SQL/NoSQL databases.",
+      "location": "Salt Lake City, UT",
+      "salary": "$110K - $130K",
+      "company": {
+        "name": "Wasatch Tech",
+        "description": "Wasatch Tech is a leading technology company focused on delivering innovative digital solutions to our clients. We offer a dynamic and collaborative work environment with opportunities for professional growth.",
+        "contactEmail": "contact@wasatchtech.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": 24,
+      "title": "Full-Stack Developer (Angular/Python)",
+      "type": "Full-Time",
+      "description": "Join our team as a Full-Stack Developer in the vibrant city of Las Vegas, NV. We are seeking a talented and motivated individual with experience building end-to-end web applications using Angular, Python, and other modern technologies.",
+      "location": "Las Vegas, NV",
+      "salary": "$90K - $110K",
+      "company": {
+        "name": "Neon Tech",
+        "description": "Neon Tech is a rapidly growing technology company specializing in web development and digital transformation. We offer a dynamic and collaborative work environment where your ideas and contributions are valued.",
+        "contactEmail": "contact@neontech.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": 25,
+      "title": "Senior Full-Stack Engineer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for an experienced Full-Stack Developer to join our team in the beautiful city of Boise, ID. We are looking for a talented individual with a strong background in modern web development technologies, including React, Node.js, and SQL/NoSQL databases.",
+      "location": "Boise, ID",
+      "salary": "$110K - $130K",
+      "company": {
+        "name": "Gem State Tech",
+        "description": "Gem State Tech is a leading technology company focused on delivering innovative digital solutions to our clients. We offer a dynamic and collaborative work environment with opportunities for professional growth.",
+        "contactEmail": "contact@gemstatetech.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": 26,
+      "title": "Full-Stack Developer (Vue.js/Ruby on Rails)",
+      "type": "Full-Time",
+      "description": "Join our team as a Full-Stack Developer in the vibrant city of Omaha, NE. We are seeking a talented and motivated individual with experience building end-to-end web applications using Vue.js, Ruby on Rails, and other modern technologies.",
+      "location": "Omaha, NE",
+      "salary": "$90K - $110K",
+      "company": {
+        "name": "Cornhusker Tech",
+        "description": "Cornhusker Tech is a rapidly growing technology company specializing in web development and digital transformation. We offer a dynamic and collaborative work environment where your ideas and contributions are valued.",
+        "contactEmail": "contact@cornhuskertech.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": 27,
+      "title": "Senior Full-Stack Engineer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for an experienced Full-Stack Developer to join our team in the beautiful city of Honolulu, HI. We are looking for a talented individual with a strong background in modern web development technologies, including React, Node.js, and SQL/NoSQL databases.",
+      "location": "Honolulu, HI",
+      "salary": "$110K - $130K",
+      "company": {
+        "name": "Aloha Tech",
+        "description": "Aloha Tech is a leading technology company focused on delivering innovative digital solutions to our clients. We offer a dynamic and collaborative work environment with opportunities for professional growth.",
+        "contactEmail": "contact@alohatech.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": 28,
+      "title": "Full-Stack Developer (Angular/Java)",
+      "type": "Full-Time",
+      "description": "Join our team as a Full-Stack Developer in the vibrant city of Anchorage, AK. We are seeking a talented and motivated individual with experience building end-to-end web applications using Angular, Java, and other modern technologies.",
+      "location": "Anchorage, AK",
+      "salary": "$90K - $110K",
+      "company": {
+        "name": "Northern Tech",
+        "description": "Northern Tech is a rapidly growing technology company specializing in web development and digital transformation. We offer a dynamic and collaborative work environment where your ideas and contributions are valued.",
+        "contactEmail": "contact@northerntech.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": 29,
+      "title": "Senior Full-Stack Engineer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for an experienced Full-Stack Developer to join our team in the beautiful city of Juneau, AK. We are looking for a talented individual with a strong background in modern web development technologies, including React, Node.js, and SQL/NoSQL databases.",
+      "location": "Juneau, AK",
+      "salary": "$110K - $130K",
+      "company": {
+        "name": "Glacier Tech",
+        "description": "Glacier Tech is a leading technology company focused on delivering innovative digital solutions to our clients. We offer a dynamic and collaborative work environment with opportunities for professional growth.",
+        "contactEmail": "contact@glaciertech.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+
+    {
+      "id": 30,
+      "title": "Full-Stack Developer Internship",
+      "type": "Intern",
+      "description": "Exciting opportunity for a Full-Stack Developer Intern to join our team in the vibrant city of Las Vegas, NV. We are seeking a talented and motivated individual with experience in web development using modern technologies.",
+      "location": "Las Vegas, NV",
+      "salary": "$20/hr",
+      "company": {
+        "name": "Neon Tech",
+        "description": "Neon Tech is a rapidly growing technology company specializing in web development and digital transformation. We offer a dynamic and collaborative work environment where your ideas and contributions are valued.",
+        "contactEmail": "contact@neontech.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": 31,
+      "title": "Part-Time Angular Developer",
+      "type": "Part-Time",
+      "description": "Join our team as a Part-Time Angular Developer in the beautiful city of Boise, ID. We are looking for a motivated individual with experience building web applications using Angular. This position offers flexible hours and the opportunity to work remotely.",
+      "location": "Boise, ID",
+      "salary": "$40 - $50/hr",
+      "company": {
+        "name": "Gem State Tech",
+        "description": "Gem State Tech is a leading technology company focused on delivering innovative digital solutions to our clients. We offer a dynamic and collaborative work environment with opportunities for professional growth.",
+        "contactEmail": "contact@gemstatetech.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": 32,
+      "title": "Full-Time Vue.js Developer",
+      "type": "Full-Time",
+      "description": "Join our team as a Full-Time Vue.js Developer in the vibrant city of Omaha, NE. We are seeking a talented and motivated individual to help us build innovative web applications using Vue.js and other modern technologies.",
+      "location": "Omaha, NE",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Cornhusker Tech",
+        "description": "Cornhusker Tech is a rapidly growing technology company specializing in web development and digital transformation. We offer a dynamic and collaborative work environment where your ideas and contributions are valued.",
+        "contactEmail": "contact@cornhuskertech.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": 33,
+      "title": "React Intern",
+      "type": "Intern",
+      "description": "Exciting opportunity for a React Intern to join our team in the beautiful city of Honolulu, HI. We are seeking a talented and motivated individual to gain hands-on experience in front-end web development.",
+      "location": "Honolulu, HI",
+      "salary": "$20/hr",
+      "company": {
+        "name": "Aloha Tech",
+        "description": "Aloha Tech is a leading technology company focused on delivering innovative digital solutions to our clients. We offer a dynamic and collaborative work environment with opportunities for professional growth.",
+        "contactEmail": "contact@alohatech.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": 34,
+      "title": "Part-Time Angular Developer",
+      "type": "Part-Time",
+      "description": "Join our team as a Part-Time Angular Developer in the vibrant city of Anchorage, AK. We are looking for a motivated individual with experience building web applications using Angular. This position offers flexible hours and the opportunity to work remotely.",
+      "location": "Anchorage, AK",
+      "salary": "$40 - $50/hr",
+      "company": {
+        "name": "Northern Tech",
+        "description": "Northern Tech is a rapidly growing technology company specializing in web development and digital transformation. We offer a dynamic and collaborative work environment where your ideas and contributions are valued.",
+        "contactEmail": "contact@northerntech.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": 35,
+      "title": "Full-Time Vue.js Developer",
+      "type": "Full-Time",
+      "description": "Join our team as a Full-Time Vue.js Developer in the beautiful city of Juneau, AK. We are seeking a talented and motivated individual to help us build innovative web applications using Vue.js and other modern technologies.",
+      "location": "Juneau, AK",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Glacier Tech",
+        "description": "Glacier Tech is a leading technology company focused on delivering innovative digital solutions to our clients. We offer a dynamic and collaborative work environment with opportunities for professional growth.",
+        "contactEmail": "contact@glaciertech.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": 36,
+      "title": "React Intern",
+      "type": "Intern",
+      "description": "Exciting opportunity for a React Intern to join our team in the beautiful city of Kailua-Kona, HI. We are seeking a talented and motivated individual to gain hands-on experience in front-end web development.",
+      "location": "Kailua-Kona, HI",
+      "salary": "$20/hr",
+      "company": {
+        "name": "Kona Tech",
+        "description": "Kona Tech is a leading technology company focused on delivering innovative digital solutions to our clients. We offer a dynamic and collaborative work environment with opportunities for professional growth.",
+        "contactEmail": "contact@konatech.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": 37,
+      "title": "Part-Time Angular Developer",
+      "type": "Part-Time",
+      "description": "Join our team as a Part-Time Angular Developer in the vibrant city of Kahului, HI. We are looking for a motivated individual with experience building web applications using Angular. This position offers flexible hours and the opportunity to work remotely.",
+      "location": "Kahului, HI",
+      "salary": "$40 - $50/hr",
+      "company": {
+        "name": "Maui Tech",
+        "description": "Maui Tech is a rapidly growing technology company specializing in web development and digital transformation. We offer a dynamic and collaborative work environment where your ideas and contributions are valued.",
+        "contactEmail": "contact@mauitech.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": 38,
+      "title": "Full-Time Vue.js Developer",
+      "type": "Full-Time",
+      "description": "Join our team as a Full-Time Vue.js Developer in the beautiful city of Lihue, HI. We are seeking a talented and motivated individual to help us build innovative web applications using Vue.js and other modern technologies.",
+      "location": "Lihue, HI",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Kauai Tech",
+        "description": "Kauai Tech is a leading technology company focused on delivering innovative digital solutions to our clients. We offer a dynamic and collaborative work environment with opportunities for professional growth.",
+        "contactEmail": "contact@kauaitech.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": 39,
+      "title": "React Intern",
+      "type": "Intern",
+      "description": "Exciting opportunity for a React Intern to join our team in the beautiful city of Hilo, HI. We are seeking a talented and motivated individual to gain hands-on experience in front-end web development.",
+      "location": "Hilo, HI",
+      "salary": "$20/hr",
+      "company": {
+        "name": "Big Island Tech",
+        "description": "Big Island Tech is a leading technology company focused on delivering innovative digital solutions to our clients. We offer a dynamic and collaborative work environment with opportunities for professional growth.",
+        "contactEmail": "contact@bigislandtech.com",
+        "contactPhone": "555-555-5555"
+      }
     }
   ]
 }
